@@ -4,6 +4,6 @@ Per svolgere la mia tesi di laurea triennale ho utilizzato Latex per la compilaz
 
 Nella cartella codice R, vi è il codice utilizzato per analisi. 
 
-Nella cartella tesi, vi è il sorgente utilizzato per scrivere la tesi. 
+Nella cartella thesis, vi è il sorgente utilizzato per scrivere la tesi. 
 
 
